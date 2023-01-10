@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harrybreak
-- 👀 I’m interested in music, sound analysis and btw, fourier analysis, discrete mathematics, programming API in C and Python, and I love skiing.
+- 👀 I am a creative dizzy squirrel who can't focus on a single project for more than 7 seconds, and I love skiing.
 - 📫 Discord : HarryBreak#7531
 
 <!---

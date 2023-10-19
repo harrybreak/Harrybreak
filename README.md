@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harrybreak
-- 👀 I am a creative dizzy racoon who can't focus on a single project for more than 7 seconds, and I love skiing.
+- 👀 I am creative but I can't focus on a single project for more than 7 seconds (and I love snow and mounts).
 - 📫 Discord : harrybreak
 
 <!---
